@@ -14,7 +14,7 @@ A plato pizza e um restaurante de New Jersey que sofre de uma estagnação de de
 ### Os dados usados
 ![DADOS EXCEL 2 ](https://github.com/alex-ramos-d-a/Analise_Operacoes_Inventario_Pizzaria/assets/115717016/855db5b1-6831-434f-9a91-19e441dfc2c5)
 
-### E todos demais arquivos usados
+### E todos demais arquivos usados.
 
 
 
