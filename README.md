@@ -11,11 +11,13 @@ E para isso foi decido realiza uma analise para tentar descobrir oportunidades e
 6. Qual tamanho de pizza mais vendida?
 
 ### Foto do dashboard
-![Foto dashboard](https://github.com/alex-ramos-d-a/Analise_operacoes_venda_pizzaria/assets/115717016/6272cc2e-5835-4497-83f0-75f2e0a068ab)
+![Foto dashboard](https://github.com/alex-ramos-d-a/Analise_Operacoes_Inventario_Pizzaria/assets/115717016/a15aad32-8c9e-401e-9e78-3366ce4d7668)
+
 
 
 ### Foto da modelagem
-![Foto Modelagem](https://github.com/alex-ramos-d-a/Analise_operacoes_venda_pizzaria/assets/115717016/f3629e3f-2dd3-476c-b7d2-33c820ce520a)
+![Foto Modelagem](https://github.com/alex-ramos-d-a/Analise_Operacoes_Inventario_Pizzaria/assets/115717016/ed2e3d8e-e742-47cc-999c-e5feadc30459)
+
 
 
 
