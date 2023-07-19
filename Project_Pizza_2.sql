@@ -178,5 +178,3 @@ where order_date between '2015-01-01' and '2015-03-31'
 group by 1,2,3,4
 order by 3;
 select * from v_ingredientes;
-
-select  pizza_name, i.ingredientes1 from treated_pizza t join ingredientes i on t.order_id = i.id_ingredientes group by 1,2;
